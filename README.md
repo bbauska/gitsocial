@@ -96,7 +96,7 @@ Here's the code in case you're too lazy to [fork this](https://github.com/carlse
     <!-- icons with padding -->
 
     [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-    [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+    [2.1]: https://github.com/bbauska/cellardoor/blob/main/images/Facebook_icon.svg.png (facebook icon with padding)
     [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
     [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
     [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
