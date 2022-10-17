@@ -81,7 +81,6 @@ Here's the code in case you're too lazy to [fork this](https://github.com/carlse
     [![alt text][3.1]][3]
     [![alt text][4.1]][4]
     [![alt text][5.1]][5]
-    [![alt text][6.1]][6]
 
 
     <!-- links to social media icons -->
@@ -111,7 +110,7 @@ Here's the code in case you're too lazy to [fork this](https://github.com/carlse
     [2]: http://www.facebook.com/brianbauska
     [3]: https://plus.google.com/+BrianBauska
     [4]: http://bbauska.tumblr.com
-    [5]: http://dribbble.com/brianbauska
+    [5]: http://dribbble.com/bbauska
 
     <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
