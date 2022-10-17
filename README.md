@@ -109,8 +109,9 @@ Here's the code in case you're too lazy to [fork this](https://github.com/carlse
     [1]: http://www.twitter.com/brianbauska
     [2]: http://www.facebook.com/brianbauska
     [3]: https://plus.google.com/+BrianBauska
-    [4]: http://bbauska.tumblr.com
+    [4]: http://babauska.tumblr.com
     [5]: http://dribbble.com/bbauska
+    [6]: http://snapchat.com/bbauska
 
     <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
